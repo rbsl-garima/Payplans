@@ -11,6 +11,7 @@ defined( '_JEXEC' ) or die( 'Restricted access' );
 
 /**
  * Extend plugin from XiPlugin
+ * Example Comment
  */
 class plgPayplansExample extends XiPlugin
 {
